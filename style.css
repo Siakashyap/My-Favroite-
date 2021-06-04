@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background: linear-gradient (#c20808 0%, #ff9819 10%, #f0d90a 20%, #45d408 30%, #23c282 40%, #10dee6 50%, #011b8c 60%, #89649c 70%, #f725db 80%, #94095c, 90, #c20808 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Limelight', cursive;
+}
+
+h2 {
+    font-family: 'Limelight', cursive;
+}
+
+h3 {
+    font-family: 'Josefin Slab', serif;
+}
+
+#inspo {
+    background-color: darksalmon;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Limelight', cursive;
+    float: right;
+    top: 10px;
+    right: 35px;
+    cursor: pointer;
+    color: antiquewhite;
+    background-color: brown;
+    font
+}
+
+#idolimg {
+    width: 70%;
+    transition: transform .2s;
+}
+
+#contact {
+    background-color: crimson;
+    color: aliceblue;
+}
